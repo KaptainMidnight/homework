@@ -1,0 +1,24 @@
+{
+  "users":
+  [
+      {
+        "name": "Ilnur Irecovich",
+        "phone": 88005553535
+      },
+
+      {
+        "name": "Egor Mayorov",
+        "phone": 89372778570
+      },
+
+      {
+        "name": "Alex Artemkin",
+        "phone": 89278016846
+      },
+
+      {
+        "name": "Petrosyan",
+        "phone": 999
+      }
+  ]
+}
